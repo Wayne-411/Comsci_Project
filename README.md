@@ -34,7 +34,17 @@
 ******
 
 ### Layout, Content, and Navigation:
-#### (Put photos of the Wireframes here)
+#### Page No. 1
+![First Page](https://github.com/Wayne-411/WDProjRubidiumCuetoMorana/blob/main/public/Screenshot%202025-10-28%20220012.png "1st Page")
+
+#### Page No. 2
+![Second Page](https://github.com/Wayne-411/WDProjRubidiumCuetoMorana/blob/main/public/Screenshot%202025-10-28%20220028.png "2nd Page")
+
+#### Page Nos. 3 - 40
+![Third to Fourtyeeth Page](https://github.com/Wayne-411/WDProjRubidiumCuetoMorana/blob/main/public/Screenshot%202025-10-28%20220045.png "3rd Page - 40th Page")
+
+#### Page No. 41
+![Fourtyfirst Page](https://github.com/Wayne-411/WDProjRubidiumCuetoMorana/blob/main/public/Screenshot%202025-10-28%20220237.png "41st Page")
 
 ******
 
@@ -45,6 +55,8 @@
 
 #### File - Crying - Clash Royale Emotes Goblin - Free Transparent PNG Download - PNGKey. (n.d.). PNGkey.com. https://www.pngkey.com/detail/u2q8y3i1y3e6e6a9_file-crying-clash-royale-emotes-goblin/
 
-#### (Put social media links here)
+#### GitHub Account 1 (https://github.com/AndyMorana)
 
-#### © 2025 Cueto & Morana. All rights reserved.
+#### GitHub Account 2 (https://github.com/Wayne-411)
+
+##### © 2025 Cueto & Morana. All rights reserved.
