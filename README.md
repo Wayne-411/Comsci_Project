@@ -16,19 +16,35 @@
 ******
 
 ### Outline of the Website:
-(Placeholder)
+#### P1 (Main Hub):
+##### 	Main Hub will serve as the main page of the website. It will feature a simple and interactive menu that allows users to navigate easily to the other pages. It will also include a short introduction about Clash Royale and the purpose of the website to guide beginners in understanding card evolutions and mastering battle strategies.
+#### P2 (Meet the Evo Cards):
+##### 	This page will showcase all 38 evolved cards in Clash Royale. Each card will include its description, special ability, strengths, weaknesses and the best situations to use it in battle. The page will help players learn how each evolved card changes gameplay and how to maximize their power.
+#### P3 - P40 (Individual Evos Pages):
+##### 	These 38 pages will focus on effective gameplay strategies using evolved cards. It will provide tips for deck building, offensive and defensive tactics, and strategies for countering opponents. It will also offer advice for players at different skill levels from beginners learning the basics to advanced players improving their competitive edge.
+#### P41 (Sources Page):
+##### 	This page will contain all the references used in creating the website, including official Clash Royale materials, and trusted player guides. It ensures that all information presented is accurate and up to date.
+
 
 ******
 
 ### How and Where JS Will Be Used on the Website:
-(Placeholder)
+#### Javascript will be used to effectively display certain parts of the statistics on pages 3 to 40. Specifically, it will be utilized in calculating and showing bonuses added to the base statistics.
 
 ******
 
 ### Layout, Content, and Navigation:
-(Placeholder)
+#### (Put photos of the Wireframes here)
 
 ******
 
-### Copyrights, References and Other Links:
+### References and Other Links:
 #### Clash Royale logo in Black wallpaper. (2023, September 1). Wallpapers.com. https://wallpapers.com/wallpapers/clash-royale-logo-in-black-orgmz2vg0p3uwvji.html
+
+#### Clash Royale Wiki | Fandom. (n.d.). https://clashroyale.fandom.com/wiki/Clash_Royale_Wiki
+
+#### File - Crying - Clash Royale Emotes Goblin - Free Transparent PNG Download - PNGKey. (n.d.). PNGkey.com. https://www.pngkey.com/detail/u2q8y3i1y3e6e6a9_file-crying-clash-royale-emotes-goblin/
+
+#### (Put social media links here)
+
+#### © 2025 Cueto & Morana. All rights reserved.
