@@ -2,7 +2,9 @@
 
 ## An Overview of All 38 Card Evolutions
 
-![The Logo For Our Website]([https://github.com/Wayne-411/Comsci_Project/blob/main/public/2NIMcAAAAGSURBVAMAeTMWs8iIiFAAAAAASUVORK5CYII.png?raw=true](https://github.com/Wayne-411/Comsci_Project/blob/main/public/2NIMcAAAAGSURBVAMAeTMWs8iIiFAAAAAASUVORK5CYII.png) "CLash Royale Logo")
+******
+
+![The Logo For Our Website](https://github.com/Wayne-411/Comsci_Project/blob/main/public/2NIMcAAAAGSURBVAMAeTMWs8iIiFAAAAAASUVORK5CYII.png "Clash Royale Logo")
 
 
 ### Description of our Website:
