@@ -1,6 +1,8 @@
-# CS3_1stQtrPortfolio_Mendoza
+# A Beginner's Guide to Clash Royale
 
-![Portfolio](https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio.jpg)
+## An Overview of All 38 Card Evolutions
+
+![Portfolio]([https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio.jpg](https://media.discordapp.net/attachments/1407934911133777952/1432665770621538314/2NIMcAAAAGSURBVAMAeTMWs8iIiFAAAAAASUVORK5CYII.png?ex=6901e179&is=69008ff9&hm=2a3e54e7797d0915051d5a88838f8589678d01783ca61d2dc21e9efdbeac0ab1&=&format=webp&quality=lossless&width=995&height=456))
 
 ## Instructions to create your CS3_1st Qtr Portfolio
 1. Make a copy of this repository to your computer and your github account.  This repository will be used to contain all your graded and non-graded exercises to create your CS3 first quarter portfolio.  
